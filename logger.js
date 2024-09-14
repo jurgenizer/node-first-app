@@ -5,4 +5,4 @@ function log (message) {
     console.log(message);
 }
 
-module.log = log;
+module.exports = log;
